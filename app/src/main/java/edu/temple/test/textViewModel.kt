@@ -3,6 +3,7 @@ package edu.temple.test
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+//commit
 
 class textViewModel : ViewModel() {
 
